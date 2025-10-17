@@ -34,6 +34,42 @@
             "category": "Decorative",
             "price": 3100,
             "thumbnail": "https://via.placeholder.com/300x200?text=Veneered+Plywood"
+        },
+                {
+            "id": 6,
+            "title": "Marine Grade Plywood",
+            "category": "Plywood Sheets",
+            "price": 2200,
+            "thumbnail": "https://via.placeholder.com/300x200?text=Marine+Plywood"
+        },
+        {
+            "id": 7,
+            "title": "Commercial MR Plywood",
+            "category": "Interior Plywood",
+            "price": 1800,
+            "thumbnail": "https://via.placeholder.com/300x200?text=Commercial+MR"
+        },
+        {
+            "id": 8,
+            "title": "BWR Grade Plywood",
+            "category": "Water Resistant",
+            "price": 2600,
+            "thumbnail": "https://via.placeholder.com/300x200?text=BWR+Plywood"
+        },
+        {
+            "id": 9,
+            "title": "Shuttering Plywood",
+            "category": "Construction",
+            "price": 2400,
+            "thumbnail": "https://via.placeholder.com/300x200?text=Shuttering+Plywood"
+        },
+        {
+            "id": 10,
+            "title": "Decorative Veneered Plywood",
+            "category": "Decorative",
+            "price": 3100,
+            "thumbnail": "https://via.placeholder.com/300x200?text=Veneered+Plywood"
         }
+        
     ]
 }
